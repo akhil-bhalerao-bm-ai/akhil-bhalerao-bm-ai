@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akhil-bhalerao-bm-ai
 - 👀 I’m interested in F1 🏎️
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on UAA BACKEND MLE FE Projets
 - 📫 How to reach me akhil.bhalerao@brightmoney.co
 
 <!---
